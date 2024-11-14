@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fida Sassi</h1>
 <h3 align="center">A Web Developer</h3>
 <img align="right" alt="Coding" width="200" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="fidas5" />
+src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-development-business-pack-animations-7501852.mp4)" alt="fidas5" />
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=fidas5&label=Profile%20views&color=0e75b6&style=flat](https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-development-business-pack-animations-7501852.mp4)" alt="fidas5" /> </p>
 
