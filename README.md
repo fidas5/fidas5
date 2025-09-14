@@ -5,7 +5,6 @@ src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a8
 
 
 
-- 🔭 Multimedia & Web Development Student
 - 📫 How to reach me **fidaasassi@gmail.com**
 
 
